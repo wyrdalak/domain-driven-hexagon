@@ -1,4 +1,4 @@
-# Domain-Driven Hexago
+# Doman-Driven Hexago
 
 **Check out my other repositories**:
 
