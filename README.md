@@ -1,4 +1,4 @@
-# Domain-Driven Hexag
+# Domain-Driven Hexa
 **Check out my other repositories**:
 
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
